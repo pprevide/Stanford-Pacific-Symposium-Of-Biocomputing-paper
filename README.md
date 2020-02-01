@@ -1,6 +1,9 @@
 # Peer-Reviewed Publication in Stanford's Pacific Symposium of Biocomputing, Waimea, Hawaii (February 2018)
 
 The GeneDive web application enables researchers and clinicians to quickly retrieve gene-gene interactions and to visualize and explore graphical networks of those interactions.  This work was a collaboration between between the Departments of Medicine and Genetics at Stanford University, and the Department of Computer Science at San Francisco State University.  
+
+You can access a user-friendly version of the paper [here](https://github.com/pprevide/Stanford-Pacific-Symposium-Of-Biocomputing-paper/blob/master/publication/Previde_GeneDive_2018.pdf), and the version as it appears on the NIH website [here](https://github.com/pprevide/Stanford-Pacific-Symposium-Of-Biocomputing-paper/blob/master/publication/nih_version.pdf).  The PubMed site for the paper is [here](https://www.ncbi.nlm.nih.gov/pubmed/29218917).  
+
 ## The GeneDive Application
 
 GeneDive users can search for one or more genes or gene sets, and the application returns all the interactions between the specified genes in tabular and graphical form, along with the information associated with the publication(s) that reported the interaction.  A complete description of the capabilities of GeneDive can be found in the paper.  
