@@ -5,6 +5,9 @@
 *.tif
 *.tiff
 
+# Include contents of images directory
+!images/*
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
